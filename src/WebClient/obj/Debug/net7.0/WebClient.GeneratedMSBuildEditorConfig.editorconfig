@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/harolperezgiraldo/Development/quickstart/src/WebClient
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/harolperezgiraldo/Development/quickstart/src/WebClient/Pages/CallApi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FsbEFwaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/harolperezgiraldo/Development/quickstart/src/WebClient/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
