@@ -40,7 +40,21 @@
           "dependencies": {
             "Duende.IdentityServer": {
               "target": "Package",
-              "version": "[6.2.0, )"
+              "version": "[6.2.3, )"
+            },
+            "Duende.IdentityServer.EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             },
             "Serilog.AspNetCore": {
               "target": "Package",
